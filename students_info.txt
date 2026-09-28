@@ -1,0 +1,38 @@
+[
+    {
+        "roll_no": 11,
+        "name": "sajid",
+        "age": 22,
+        "course": "data analytics"
+    },
+    {
+        "roll_no": 13,
+        "name": "zaid",
+        "age": 26,
+        "course": "full stack"
+    },
+    {
+        "roll_no": 12,
+        "name": "shahid",
+        "age": 24,
+        "course": "python full stack"
+    },
+    {
+        "roll_no": 14,
+        "name": "alpesh",
+        "age": 26,
+        "course": "html"
+    },
+    {
+        "roll_no": 102,
+        "name": "nheal              123",
+        "age": 18,
+        "course": "mba"
+    },
+    {
+        "roll_no": 89,
+        "name": "joheb   12",
+        "age": 34,
+        "course": "h"
+    }
+]
